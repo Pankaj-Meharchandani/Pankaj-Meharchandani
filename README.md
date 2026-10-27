@@ -11,7 +11,7 @@ I'm a passionate designer, developer, and a lifelong learner on a quest to conqu
 
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pankaj-Meharchandani&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=d6e7ff&bg_color=0,000000,130F40" alt="my Github Stats"/>-->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pankaj-Meharchandani&include_all_commits=true&count_private=true&show_icons=true&line_height=20&text_color=D7E8FF&icon_color=0f1fa4&bg_color=45%2C000000%2C130F40" alt="my Github Stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pankaj-Meharchandani&include_all_commits=true&count_private=true&show_icons=true&line_height=20&text_color=D7E8FF&bg_color=45%2C000000%2C130F40" alt="my Github Stats"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Pankaj-Meharchandani&theme=holi-theme&background=45%2C000000%2C130F40&stroke=130F40&ring=25489C&fire=0F1FA4&currStreakNum=d6e7ff&sideNums=d6e7ff" alt="GitHub Streak" />
 
